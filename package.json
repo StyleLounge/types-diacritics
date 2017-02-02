@@ -1,0 +1,9 @@
+{
+  "name": "@style-types/diacritics",
+  "version": "1.0.0",
+  "description": "TypeScript 2 typings for `diacritics`",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StyleLounge/types-diacritics.git"
+  }
+}
